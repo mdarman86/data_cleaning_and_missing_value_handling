@@ -6,7 +6,6 @@ This project shows basic data cleaning using Python.
 - Python
 - Pandas
 - NumPy
-- Matplotlib
 
 ## Work Done
 - Loaded house price dataset
